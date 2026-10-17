@@ -10,9 +10,9 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/Lightrex7749?style=for-the-badge&logo=github&color=24243E&labelColor=7C3AED" />
-<img src="https://img.shields.io/github/stars/Lightrex7749?style=for-the-badge&logo=github&color=24243E&labelColor=7C3AED" />
-<img src="https://komarev.com/ghpvc/?username=Lightrex7749&label=Views&style=for-the-badge&color=24243E&labelColor=7C3AED" />
+<img src="https://img.shields.io/github/followers/RezZup?style=for-the-badge&logo=github&color=24243E&labelColor=7C3AED" />
+<img src="https://img.shields.io/github/stars/RezZup?style=for-the-badge&logo=github&color=24243E&labelColor=7C3AED" />
+<img src="https://komarev.com/ghpvc/?username=RezZup&label=Views&style=for-the-badge&color=24243E&labelColor=7C3AED" />
 
 </div>
 
@@ -141,7 +141,7 @@ Turning ideas into products people can actually use.
 <tr>
 <td width="50%" valign="top">
 
-#### 🌍 [Suraksha Setu](https://github.com/Lightrex7749/Suraksha-Setu)
+#### 🌍 [Suraksha Setu](https://github.com/RezZup/Suraksha-Setu)
 *AI-powered Disaster Intelligence Platform*
 
 Combines satellite data, weather monitoring, emergency alerts and predictive analytics, with RAG and image classification for faster disaster response.
@@ -155,7 +155,7 @@ Combines satellite data, weather monitoring, emergency alerts and predictive ana
 </td>
 <td width="50%" valign="top">
 
-#### 🎓 [AlumUnity](https://github.com/Lightrex7749/AlumUnity)
+#### 🎓 [AlumUnity](https://github.com/RezZup/AlumUnity)
 *Modern Alumni Management Platform*
 
 Real-time chat, mentorship matching, job portal and AI-powered career intelligence, built with role-based access for every user type.
@@ -171,7 +171,7 @@ Real-time chat, mentorship matching, job portal and AI-powered career intelligen
 <tr>
 <td width="50%" valign="top">
 
-#### 👗 [ClothyRec](https://github.com/Lightrex7749/ClothyRec)
+#### 👗 [ClothyRec](https://github.com/RezZup/ClothyRec)
 *AI Fashion Stylist*
 
 Recommends outfits using OpenCLIP embeddings and FAISS search, with YOLOv8 + MTCNN for clothing and skin-tone detection and Gemini API for styling tips.
@@ -183,7 +183,7 @@ Recommends outfits using OpenCLIP embeddings and FAISS search, with YOLOv8 + MTC
 </td>
 <td width="50%" valign="top">
 
-#### ⚡ [EnergiX](https://github.com/Lightrex7749/EnergiX)
+#### ⚡ [EnergiX](https://github.com/RezZup/EnergiX)
 *Adaptive CPU Scheduling Simulator*
 
 Simulator focused on improving **power efficiency and performance** with adaptive CPU scheduling.
@@ -204,12 +204,12 @@ Simulator focused on improving **power efficiency and performance** with adaptiv
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Lightrex7749&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=D8B4FE&sideLabels=D8B4FE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+<img src="https://streak-stats.demolab.com?user=RezZup&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=D8B4FE&sideLabels=D8B4FE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lightrex7749&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D8B4FE&icon_color=A855F7&text_color=FFFFFF&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lightrex7749&layout=compact&hide_border=true&bg_color=0D1117&title_color=D8B4FE&text_color=FFFFFF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RezZup&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D8B4FE&icon_color=A855F7&text_color=FFFFFF&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezZup&layout=compact&hide_border=true&bg_color=0D1117&title_color=D8B4FE&text_color=FFFFFF" />
 
 
 </div>
@@ -220,8 +220,8 @@ Simulator focused on improving **power efficiency and performance** with adaptiv
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lightrex7749/Lightrex7749/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Lightrex7749/Lightrex7749/output/github-contribution-grid-snake.svg" alt="Contribution snake">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RezZup/RezZup/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/RezZup/RezZup/output/github-contribution-grid-snake.svg" alt="Contribution snake">
   </picture>
 </p>
 
